@@ -49,7 +49,7 @@ Cappuccino03/
 
 ```
 <p align="center"> <img src="https://img.shields.io/badge/UI-Preview-blue?style=for-the-badge" /><br><br> <img src="https://github.com/mantrapatil03/Cappuccino03/blob/main/images/preview.png" alt="Cappuccino03 Portfolio Preview" width="800px"> </p>
-<img width="1349" height="915" alt="Screenshot 2025-11-05 021627" src="https://github.com/user-attachments/assets/8eb206d1-3bc4-4d59-a5e4-92388dfb84f8" />
+
 
 
 <h2 align="center">💫 Redeveloped with Passion by Shree Organization 💫</h2> <p align="center"> <i>Clean code. Modern design. Future-ready performance.</i><br><br> <img src="https://img.shields.io/badge/Made%20With-HTML%20%7C%20SCSS%20%7C%20JS-orange?style=for-the-badge&logo=visualstudiocode" /> <img src="https://img.shields.io/badge/Redeveloped%20By-Shree%20Organization-cyan?style=for-the-badge&logo=vercel" /> </p> <p align="center"> 🌟 <b>If you appreciate the redesign, please give it a star!</b> 🌟 </p>
